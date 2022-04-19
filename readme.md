@@ -245,7 +245,7 @@ DATABASES = {
 ```
 
 ## Building the **User Info Database** app via API
-* Let’s define a model for the notes in the **models.py** file of the **my_rest_api_app** app that we have created
+* Let’s define a model for the users in the **models.py** file of the **my_rest_api_app** app that we have created
 
 ```
 from django.db import models
