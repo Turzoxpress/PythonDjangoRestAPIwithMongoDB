@@ -117,6 +117,12 @@ Now open your browser and copy and paste the link **http://127.0.0.1:8000/** or 
 ## Install MongoDB database (Install MongoDB Community Edition)
 [How to install MongoDB on Ubuntu](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/)
 
+<br>
+
+![MongoDB](/screenshots/mongodb_logo.png)
+
+<br>
+
 * Import the public key used by the package management system. <br>
 
 ```python 
